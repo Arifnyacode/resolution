@@ -3,3 +3,4 @@ Resolution
 - become freelance programming product web
 - learning laravel
 - create project school
+- collab with student
